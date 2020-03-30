@@ -1,11 +1,10 @@
-from sanic import Blueprint, request
-from sanic import response as Response
-
-from loguru import logger
-
 import uuid
 import os
 import base64
+
+from sanic import Blueprint, request
+from sanic import response as Response
+from sanic.log import logger
 
 from TuSanic.tus_file import TusFile, db_session
 

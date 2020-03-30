@@ -1,6 +1,6 @@
 # TuSanic
 
-![GitHub stars](https://img.shields.io/github/stars/avi-av/TuSanic?style=social)
+![GitHub stars](https://img.shields.io/github/stars/avi-av/TuSanic?style=social) ![PyPI - License](https://img.shields.io/pypi/l/TuSanic) ![PyPI](https://img.shields.io/pypi/v/TuSanic) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/TuSanic) ![PyPI - Wheel](https://img.shields.io/pypi/wheel/TuSanic)
 
 ---
 
