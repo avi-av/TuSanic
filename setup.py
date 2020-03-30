@@ -12,7 +12,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='TuSanic',
-    version='0.1.0.dev1',
+    version='0.1.0-dev.2',
     url='https://github.com/avi-av/TuSanic.git',
     license='MIT',
     author='Avi_av',
