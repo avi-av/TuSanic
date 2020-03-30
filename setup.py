@@ -24,8 +24,7 @@ setup(
     platforms='any',
     install_requires=[
         'sanic',
-        'pony',
-        'loguru'
+        'pony'
     ],
     python_requires='>=3.6',
     classifiers=[
